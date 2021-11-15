@@ -1,4 +1,4 @@
-# Instructions
+# Binary Tree Examples
 
 ### Table of Contents
 
