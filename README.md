@@ -3,6 +3,7 @@
 ### Table of Conents
 
 * [All Instructions](/Instructions)
+* [Notes](/Notes/)
 * [Source Files](/SourceFiles)
   * [Node List](/SourceFiles/NodeList.h)
   * [Assignment 6](/SourceFiles/Assignment6)
