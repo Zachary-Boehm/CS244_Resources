@@ -4,6 +4,7 @@
 
 * [All Instructions](/Instructions)
 * [Notes](/Notes/)
+  * [typedef](/Notes/typedef.md)
 * [Source Files](/SourceFiles)
   * [Node List](/SourceFiles/NodeList.h)
   * [Binary Tree](/BinaryTree/)
