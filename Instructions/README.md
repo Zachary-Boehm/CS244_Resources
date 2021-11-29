@@ -8,3 +8,4 @@
 * [Assignment 5](/Instructions/Assignment5(1).pdf)
 * [Assignment 6](/Instructions/CS244_Assignment6.pdf)
   * [PNG](/Instructions/CS244_Assignment_6.png)
+* [Optional Assignment](/Instructions/CS244_OptionalAssignment_CarRentalBT.pdf)
